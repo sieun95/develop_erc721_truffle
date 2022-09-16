@@ -1,0 +1,20 @@
+.preMintingPageContainer {
+    padding-top: 100px;
+}
+
+.mintingBtnContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.mintingBtnContainer .mintingBtn {
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+}
+
+.mintingSearch {
+    width: 100px;
+    height: 100px;
+    background-color: mediumvioletred;
+}
